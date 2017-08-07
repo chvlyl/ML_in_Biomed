@@ -15,4 +15,4 @@
 |Image data (X-ray, NMR, OCR image etc.)|CNN|-Detection: Diagnosis of skin cancer lung nodule or diabetic reinopathy<br/>-Segmentation of tumor, histopathology|
 |Time series data (EEG, ECG, vital sign data etc.)|HMM,RNN,CNN|-Sleep disorder(apnea)<br/>-ICU monitoring|
 |Genomics data|GATK,QIIME|-Cancer mutation identification<br/>-Biomarker identification<br/>-Durg discovery |
-|Other data (hospital operational data)||-Reduce operatoinal cost<br/>-Improve patient experience<br/>-ER|
+|Other data (hospital operational data)|-ML(regression)<br/>-Queueing model|-Reduce operatoinal cost<br/>-Improve patient experience<br/>-ER wait time and queueing|
