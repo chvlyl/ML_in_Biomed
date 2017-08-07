@@ -10,7 +10,7 @@
 ## Overview
 |Data type|Model/Tools|Applications|
 |---|---|---|
-|-EHR data <br/>-Insurance claims data |ML(logistic regression,XGBoost)|Predict outcomes|
+|-EHR data <br/>-Insurance claims data |ML(logistic regression,XGBoost)|Predict outcomes (disease, death, readmission etc.)|
 |-Clinical notes <br/>-Conversation text data|-Rule based approach(regular expression)<br/>-Deep learning apporach|-Extrac concepts from clinical notes <br/>-Knowledge graphs<br/>-Chat-bot<br/>-QA system|
 |Image data (X-ray, NMR, OCR image etc.)|CNN|-Detection: Diagnosis of skin cancer lung nodule or diabetic reinopathy<br/>-Segmentation of tumor, histopathology|
 |Time series data (EEG, ECG, vital sign data etc.)|HMM,RNN,CNN|-Sleep disorder(apnea)<br/>-ICU monitoring|
