@@ -32,6 +32,4 @@
 ## Time series data
 |Question|Models/Tools|Data|Sample|Reference|Year|
 |---|---|---|---|---|---|
-|sinus rhythm and atrial fibrillation|34-layer convolutional neural network (CNN)|single-lead ECG|-(Train) 64,121 ECG records
-from 29,163 patients<br/>-(Test) 336 records from 328 unique
-patients|[Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)|2017|
+|sinus rhythm and atrial fibrillation|34-layer convolutional neural network (CNN)|single-lead ECG|-(Train) 64,121 ECG records from 29,163 patients<br/>-(Test) 336 records from 328 unique patients|[Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)|2017|
