@@ -67,3 +67,9 @@
 |Genetic variants|Exome NGS|NGS&EHR data|50,726 individuals|[Distribution and clinical impact of functional variants in 50,726 whole-exome sequences from the DiscovEHR study](http://science.sciencemag.org/content/354/6319/aaf6814)|2016|
 |Familial hypercholesterolemia|Exome NGS|NGS&EHR data|50,726 individuals|[Genetic identification of familial hypercholesterolemia within a single U.S. health care system](http://science.sciencemag.org/content/354/6319/aaf7000)|2016|
 
+
+## Other
+|Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
+|---|---|---|---|---|---|
+|Drug discovery|LSTM||12-27 assays|[Low Data Drug Discovery with One-Shot Learning](http://pubs.acs.org/doi/full/10.1021/acscentsci.6b00367)|2017|
+
