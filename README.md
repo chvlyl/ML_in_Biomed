@@ -32,7 +32,7 @@
 |Review||||[Opportunities and challenges in developing risk prediction models with electronic health records data: a systematic review](https://academic.oup.com/jamia/article/24/1/198/2631444/Opportunities-and-challenges-in-developing-risk)|2016|
 |heart failure|-logistic regression<br/>-random forest|longitudinal EHR data|1684 heart failure cases and 13525 matched controls|[Early Detection of Heart Failure Using Electronic Health Records](http://circoutcomes.ahajournals.org/content/9/6/649.long)|2016|
 |heart failure (review)||||[Population Risk Prediction Models for Incident Heart Failure](http://circheartfailure.ahajournals.org/content/8/3/438.long)|2015|
-
+|Kidney transplant graft failure|Cox regression|10-years EHR data|69,440 kidney transpants|[A comprehensive risk quantification score for deceased donor kidneys: the kidney donor risk index](https://insights.ovid.com/pubmed?pmid=19623019)|2009|
 
 
 ## Image data
