@@ -42,8 +42,7 @@
 |---|---|---|---|---|---|
 |Review||||[Realizing the full potential of electronic health records: the role of natural language processing](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000501)|2011|
 |Review||||[Natural language processing: an introduction](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000464)|2011|
-|Negation|Regular expression and rule-based approach|Clinical reports|2060 discharge summaries|[A simple algorithm for identifying negated findings and diseases in discharge summaries
-](http://www.sciencedirect.com/science/article/pii/S1532046401910299?via%3Dihub)|2001|
+|Negation|Regular expression and rule-based approach|Clinical reports|2060 discharge summaries|[A simple algorithm for identifying negated findings and diseases in discharge summaries](http://www.sciencedirect.com/science/article/pii/S1532046401910299?via%3Dihub)|2001|
 
 ## Image data
 
