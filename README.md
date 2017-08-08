@@ -47,7 +47,7 @@
 ## Image data
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
-|Review||||[]()|2011|
+|Diabetic retinopathy|CNN|retinal fundus images|128175 retinal images|[evelopment and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](http://jamanetwork.com/journals/jama/fullarticle/2588763)|2016|
 
 
 
