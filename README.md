@@ -48,7 +48,8 @@
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
 |Diabetic retinopathy|CNN|retinal fundus images|128175 retinal images|[Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](http://jamanetwork.com/journals/jama/fullarticle/2588763)|2016|
-
+|Skin cancer |CNN|skin images|129,450 skin images|[Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)|2017|
+|Tumor|CNN|Pathology images|400+110 slides|[Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)|2017|
 
 
 ## Time series data
