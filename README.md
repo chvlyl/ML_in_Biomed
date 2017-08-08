@@ -27,13 +27,21 @@
 
 ## EHR data
 
+
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
+|Review||||[Mining electronic health records: towards better research applications and clinical care](https://www.nature.com/nrg/journal/v13/n6/full/nrg3208.html)|2012|
 |Review||||[Opportunities and challenges in developing risk prediction models with electronic health records data: a systematic review](https://academic.oup.com/jamia/article/24/1/198/2631444/Opportunities-and-challenges-in-developing-risk)|2016|
 |heart failure|-logistic regression<br/>-random forest|longitudinal EHR data|1684 heart failure cases and 13525 matched controls|[Early Detection of Heart Failure Using Electronic Health Records](http://circoutcomes.ahajournals.org/content/9/6/649.long)|2016|
 |heart failure (review)||||[Population Risk Prediction Models for Incident Heart Failure](http://circheartfailure.ahajournals.org/content/8/3/438.long)|2015|
 |Kidney transplant graft failure|Cox regression|10-years EHR data|69,440 kidney transpants|[A comprehensive risk quantification score for deceased donor kidneys: the kidney donor risk index](https://insights.ovid.com/pubmed?pmid=19623019)|2009|
 
+
+## Clinical notes
+|Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
+|---|---|---|---|---|---|
+|Review||||[Realizing the full potential of electronic health records: the role of natural language processing](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000501)|2011|
+|Review||||[Natural language processing: an introduction](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000464)|2011|
 
 ## Image data
 
