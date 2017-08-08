@@ -56,6 +56,7 @@
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
 |sinus rhythm and atrial fibrillation|34-layer convolutional neural network (CNN)|single-lead ECG|-(Train) 64,121 ECG records from 29,163 patients<br/>-(Test) 336 records from 328 unique patients|[Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)|2017|
+|Hand movements|CNN|sEMG|67 intact subjects and 11 transradial amputees|[Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands](http://journal.frontiersin.org/article/10.3389/fnbot.2016.00009/full)|2016|
 
 
 ## Genomics data
