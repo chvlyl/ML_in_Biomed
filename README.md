@@ -47,7 +47,7 @@
 ## Image data
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
-|Diabetic retinopathy|CNN|retinal fundus images|128175 retinal images|[evelopment and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](http://jamanetwork.com/journals/jama/fullarticle/2588763)|2016|
+|Diabetic retinopathy|CNN|retinal fundus images|128175 retinal images|[Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](http://jamanetwork.com/journals/jama/fullarticle/2588763)|2016|
 
 
 
@@ -58,3 +58,8 @@
 
 
 ## Genomics data
+|Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
+|---|---|---|---|---|---|
+|sinus rhythm and atrial fibrillation|34-layer convolutional neural network (CNN)|single-lead ECG|-(Train) 64,121 ECG records from 29,163 patients<br/>-(Test) 336 records from 328 unique patients|[Distribution and clinical impact of functional variants in 50,726 whole-exome sequences from the DiscovEHR study](http://science.sciencemag.org/content/354/6319/aaf6814)|2016|
+|Familial hypercholesterolemia|Exome NGS|NGS data|50,726 individuals|[Genetic identification of familial hypercholesterolemia within a single U.S. health care system](http://science.sciencemag.org/content/354/6319/aaf7000)|2016|
+
