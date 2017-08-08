@@ -60,6 +60,6 @@
 ## Genomics data
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
-|sinus rhythm and atrial fibrillation|34-layer convolutional neural network (CNN)|single-lead ECG|-(Train) 64,121 ECG records from 29,163 patients<br/>-(Test) 336 records from 328 unique patients|[Distribution and clinical impact of functional variants in 50,726 whole-exome sequences from the DiscovEHR study](http://science.sciencemag.org/content/354/6319/aaf6814)|2016|
-|Familial hypercholesterolemia|Exome NGS|NGS data|50,726 individuals|[Genetic identification of familial hypercholesterolemia within a single U.S. health care system](http://science.sciencemag.org/content/354/6319/aaf7000)|2016|
+|Genetic variants|Exome NGS|NGS&EHR data|50,726 individuals|[Distribution and clinical impact of functional variants in 50,726 whole-exome sequences from the DiscovEHR study](http://science.sciencemag.org/content/354/6319/aaf6814)|2016|
+|Familial hypercholesterolemia|Exome NGS|NGS&EHR data|50,726 individuals|[Genetic identification of familial hypercholesterolemia within a single U.S. health care system](http://science.sciencemag.org/content/354/6319/aaf7000)|2016|
 
