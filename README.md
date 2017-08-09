@@ -71,8 +71,10 @@
 ## Other
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
 |---|---|---|---|---|---|
-|Drug discovery|LSTM||12-27 assays|[Low Data Drug Discovery with One-Shot Learning](http://pubs.acs.org/doi/full/10.1021/acscentsci.6b00367)|2017|
-|Tutorial||Image||[Deep Learning Models for Health Care: Challenges and Solutions](http://www-bcf.usc.edu/~liu32/icml_tutorial.pdf)|2017|
-|Tutorial||Image||[Deep Learning in Radiology: Recent Advances, Challenges and Future Trends](https://ulasbagci.wordpress.com/2016/12/10/deep-learning-in-radiology-rsna-2016/)|2016|
-|Tutorial||||[Big Data Analytics for Healthcare](https://www.siam.org/meetings/sdm13/sun.pdf)|2013|
+|Drug discovery|LSTM||12-27 assays|[Low data drug discovery with one-shot learning](http://pubs.acs.org/doi/full/10.1021/acscentsci.6b00367)|2017|
+|Tutorial||Image||[Deep learning models for health care: challenges and solutions](http://www-bcf.usc.edu/~liu32/icml_tutorial.pdf)|2017|
+|Tutorial||Image||[Deep learning in radiology: recent advances, challenges and future trends](https://ulasbagci.wordpress.com/2016/12/10/deep-learning-in-radiology-rsna-2016/)|2016|
+|Tutorial||||[Big data analytics for healthcare](https://www.siam.org/meetings/sdm13/sun.pdf)|2013|
+|Tutorial||Image||[Survey of deep learning in radiology](https://healthcare.ai/survey-of-deep-learning-in-radiology/)|2017|
+
 
