@@ -73,4 +73,5 @@
 |---|---|---|---|---|---|
 |Drug discovery|LSTM||12-27 assays|[Low Data Drug Discovery with One-Shot Learning](http://pubs.acs.org/doi/full/10.1021/acscentsci.6b00367)|2017|
 |Tutorial||||[Deep Learning Models for Health Care: Challenges and Solutions](http://www-bcf.usc.edu/~liu32/icml_tutorial.pdf)|2017|
+|Tutorial||||[Deep Learning in Radiology: Recent Advances, Challenges and Future Trends](https://ulasbagci.wordpress.com/2016/12/10/deep-learning-in-radiology-rsna-2016/)|2016|
 
