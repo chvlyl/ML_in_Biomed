@@ -76,5 +76,8 @@
 |Tutorial||Image||[Deep learning in radiology: recent advances, challenges and future trends](https://ulasbagci.wordpress.com/2016/12/10/deep-learning-in-radiology-rsna-2016/)|2016|
 |Tutorial||||[Big data analytics for healthcare](https://www.siam.org/meetings/sdm13/sun.pdf)|2013|
 |Tutorial||Image||[Survey of deep learning in radiology](https://healthcare.ai/survey-of-deep-learning-in-radiology/)|2017|
+|ER wait time||ER visit time||[Accurate ED Wait Time Prediction](https://web.stanford.edu/~bayati/papers/edwait.pdf)|2017|
+
+
 
 
