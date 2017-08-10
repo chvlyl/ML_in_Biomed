@@ -20,7 +20,7 @@
 |---|---|---|
 |-EHR data <br/>-Insurance claims data |ML(logistic regression,XGBoost)|Predict outcomes (disease, death, readmission etc.)|
 |-Clinical notes <br/>-Conversation text data|-Rule based approach(regular expression)<br/>-Deep learning apporach|-Extract concepts from clinical notes <br/>-Knowledge graphs<br/>-Chat-bot<br/>-QA system|
-|Image data (X-ray, NMR, OCR image etc.)|CNN|-Detection: diagnosis of skin cancer lung nodule or diabetic reinopathy<br/>-Segmentation of tumor, histopathology|
+|Medical image data (X-ray, CT, OCR image etc.)|CNN|-Detection: diagnosis of skin cancer lung nodule or diabetic reinopathy<br/>-Segmentation of tumor, histopathology|
 |Time series data (EEG, ECG, vital sign data etc.)|HMM,RNN,CNN|-Heart disease<br/>-Sleep disorder(apnea)<br/>-ICU monitoring|
 |Genomics data|GATK,QIIME|-Cancer mutation identification<br/>-Biomarker identification<br/>-Durg discovery |
 |Other data (hospital operational data)|-ML(regression)<br/>-Queueing model|-Reduce operational cost<br/>-Improve patient experience<br/>-ER wait time and queueing|
