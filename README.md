@@ -43,9 +43,9 @@
 |Review||||[Realizing the full potential of electronic health records: the role of natural language processing](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000501)|2011|
 |Review||||[Natural language processing: an introduction](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000464)|2011|
 |Negation|Regular expression and rule-based approach|Clinical reports|2060 discharge summaries|[A simple algorithm for identifying negated findings and diseases in discharge summaries](http://www.sciencedirect.com/science/article/pii/S1532046401910299?via%3Dihub)|2001|
+|||||[Using electronic health records to drive discovery in disease genomics](https://www.nature.com/nrg/journal/v12/n6/pdf/nrg2999.pdf)||
 
-Using electronic health records to drive discovery in disease genomics
-https://www.nature.com/nrg/journal/v12/n6/pdf/nrg2999.pdf
+
 
 ## Image data
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
@@ -53,9 +53,9 @@ https://www.nature.com/nrg/journal/v12/n6/pdf/nrg2999.pdf
 |Diabetic retinopathy|CNN|retinal fundus images|128175 retinal images|[Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](http://jamanetwork.com/journals/jama/fullarticle/2588763)|2016|
 |Skin cancer |CNN|skin images|129,450 skin images|[Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)|2017|
 |Tumor|CNN|Pathology images|400+110 slides|[Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)|2017|
+|||||[Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177)||
 
-Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments
-http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177
+
 
 ## Time series data
 |Prediction outcomes|Models/Tools|Data type|Sample size|Reference|Year|
