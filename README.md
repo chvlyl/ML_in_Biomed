@@ -44,6 +44,8 @@
 |Review||||[Natural language processing: an introduction](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000464)|2011|
 |Negation|Regular expression and rule-based approach|Clinical reports|2060 discharge summaries|[A simple algorithm for identifying negated findings and diseases in discharge summaries](http://www.sciencedirect.com/science/article/pii/S1532046401910299?via%3Dihub)|2001|
 |||||[Using electronic health records to drive discovery in disease genomics](https://www.nature.com/nrg/journal/v12/n6/pdf/nrg2999.pdf)||
+|NER||discharge summaries|349 notes|[A study of machine-learning-based approaches to extract clinical entities and their assertions from discharge summaries](https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000163)|2011|
+
 
 
 
